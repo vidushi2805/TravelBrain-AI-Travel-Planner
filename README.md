@@ -63,7 +63,7 @@ You'll need the following before you start:
 Clone the repository and move into it:
 
 ```bash
-git clone https://github.com/KalyanM45/TravelBrain-Multi-Agent-AI-Travel-Planner.git
+git clone https://github.com/vidushi2805/TravelBrain-AI-Travel-Planner.git
 cd TravelBrain-Multi-Agent-AI-Travel-Planner
 ```
 
